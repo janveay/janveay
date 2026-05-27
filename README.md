@@ -14,5 +14,3 @@
 - Deep Learning
 - Generative AI
 
-## Connect With Me
-- LinkedIn: your-linkedin
